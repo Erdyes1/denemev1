@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" group-title="Turk",TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2" group-title="Turk",TRT 2
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D" group-title="Turk",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV" group-title="Turk",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Show TV" group-title="Turk",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TV" group-title="Turk",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW TV" group-title="Turk",NOW TV
+https://fox-live.daioncdn.net/fox/fox.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV8" group-title="Turk",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 7" group-title="Turk",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beyaz TV" group-title="Turk",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="teve2" group-title="Turk",teve2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A2" group-title="Turk",A2
+https://trkvz-live.daioncdn.net/a2/a2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="360" group-title="Turk",360
+https://turmedya-live.daioncdn.net/stv360/stv360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ülke TV" group-title="Turk",Ülke TV
+https://kanal7-live.daioncdn.net/ulketv/ulketv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Haber" group-title="Turk",TGRT Haber
+https://tgrt-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor" group-title="Turk",TRT Spor
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor Yıldız" group-title="Turk",TRT Spor Yıldız
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Spor" group-title="Turk",A Spor
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fenerbahçe TV" group-title="Turk",Fenerbahçe TV
+https://fenerbahcetv.daioncdn.net/fenerbahcetv/fenerbahcetv.m3u8
